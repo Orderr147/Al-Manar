@@ -34,7 +34,7 @@ body{
     transition: all .5s !important;
 }
 .down:hover{
-    color: #0c0d4130;
+    color: #030449dd;
     transition: all .5s !important;
 }
 .down:hover::before{
@@ -45,7 +45,7 @@ body{
     border: 1px solid black;
     border-radius: 7px;
     padding: 6px;
-    background: #038d51;
+    background: #160d50ff;
     margin: 5px;
     transition: all .5s ease-in-out !important;
     font-family: 'assaf';
@@ -92,7 +92,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #149225;
+    background-color: #050c76ff;
     border-radius: 50%;
     font-size: 22px;
     transition: .2s bottom ease-in-out;
@@ -207,7 +207,7 @@ body{
 .footer{
     padding-top: 3rem;
     padding-bottom: 3rem;
-    background-color: green;
+    background-color: #0a024aff;
     color: #fff;
     margin-top: 10em;
 }
@@ -227,7 +227,7 @@ body{
 }
 #porto:hover{
     color: #fff;
-    background: #008763;
+    background: #0e034aff;
     transition: .3s all;
 }
 #insta:hover{
