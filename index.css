@@ -29,12 +29,12 @@ body{
 }
 .down{
     font-size: 25px;
-    color: #038d51;
+    color: #0a062aff;
     text-decoration: none;
     transition: all .5s !important;
 }
 .down:hover{
-    color: #038d51;
+    color: #0c0d4130;
     transition: all .5s !important;
 }
 .down:hover::before{
